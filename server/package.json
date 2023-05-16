@@ -12,7 +12,11 @@
   "license": "ISC",
   "devDependencies": {
     "@types/node": "^20.1.5",
+    "prisma": "^4.14.0",
     "tsx": "^3.12.7",
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "fastify": "^4.17.0"
   }
 }
